@@ -10,22 +10,6 @@ http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8
 #EXTINF:-1 tvg-id="Bandhd.br" tvg-name="Band" tvg-logo="https://imgur.com/HnL2uBA.png" group-title="CANAIS TV",Band
 http://evpp.mm.uol.com.br:1935/geob_band/app/playlist.m3u8?IMDSFULL
 
-#EXTINF:-1 tvg-id="Bandhd.br" tvg-name="Band - RBA TV (PA)" tvg-logo="https://imgur.com/HnL2uBA.png" group-title="CANAIS TV",Band - RBA TV (PA)
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8?IMDSFULL
-
-#EXTINF:-1 tvg-id="Bandhd.br" tvg-name="Band - RBA TV (PA)" tvg-logo="https://imgur.com/HnL2uBA.png" group-title="CANAIS TV",Band - RBA TV (PA)
-https://5cf4a2c2512a2.streamlock.net/rbatv/rbatv/playlist.m3u8
-
-
-#EXTINF:-1 tvg-id="Globonews.br" tvg-name="GLOBO NEWS HD" tvg-logo="https://1.bp.blogspot.com/-JElazdWUyUo/Xk70WwgDZCI/AAAAAAAACFE/Fj8OKkbTSp03ONDEPgW9PzMlDWSmMx52QCLcBGAsYHQ/s1600/globonews.png" group-title="CANAIS TV",GLOBO NEWS HD
-http://solutionplay.xyz:8080/techruthes/10987658/6108
-
-#EXTINF:-1 tvg-id="Gnt.br" tvg-name="GNT HD" tvg-logo="https://3.bp.blogspot.com/-iCbjYIDrwhE/XmP_eN3d_iI/AAAAAAAACQI/gVXF4j0G4Dwz8ZDiKaI8Qgth5DSUrcscgCK4BGAYYCw/s400/GNT.png" group-title="CANAIS TV",GNT HD
-http://solutionplay.xyz:8080/techruthes/10987658/6076
-
-#EXTINF:-1 tvg-id="Redetv.br" tvg-name="REDE TV FHD" tvg-logo="https://i.imgur.com/hd76Jt4.png" group-title="CANAIS TV",REDE TV FHD
-http://solutionplay.xyz:8080/techruthes/10987658/6331
-
 #EXTINF:-1 tvg-id="Redetv.br" tvg-name="RedeTV" tvg-logo="https://i.imgur.com/hd76Jt4.png" tvg-shift="0" group-title="CANAIS TV",RedeTV! SP
 http://177.20.208.58:8000/play/a03p/index.m3u8
 
@@ -77,13 +61,8 @@ https://5b33b873179a2.streamlock.net:1443/live/livestream/chunklist_w1960464540.
 #EXTINF:-1 tvg-id="Tvcultura.br" tvg-name="Catve" tvg-logo="https://imgur.com/yg60ANb.png" group-title="CANAIS TV",Tv Cultura
 http://wowza4.catve.com.br:1935/live/livestream/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tvbrasil.br" tvg-name="TV BRASil" tvg-logo="https://maisro.com.br/wp-content/uploads/2018/02/TV_Brasil_logo.png" group-title="CANAIS TV",TV BRASil
-
 #EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Gazeta" tvg-logo="https://imgur.com/lAXbfuU.png" tvg-shift="0" group-title="CANAIS TV",TV Gazeta
 http://api.new.livestream.com/accounts/5381476/events/8947634/live.m3u8
-
-#EXTINF:-1 tvg-id="TVGazeta.br" tvg-name="TV Alternativa" tvg-logo="http://www.tvalternativa.tv.br/admin/assets/img/logo.png" tvg-shift="0" group-title="CANAIS TV",TV Alternativa
-http://stmv8.conectastm.com/wagner1168/wagner1168/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CBTV agora" tvg-logo="https://pbs.twimg.com/profile_images/835611005287870465/0ZHcybD-_400x400.jpg" group-title="CANAIS TV",CBTV agora
 https://oj7lng29dg82-hls-live.5centscdn.com/lives/f7b44cfafd5c52223d5498196c8a2e7b.sdp/index.m3u8
@@ -113,17 +92,11 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w8564313
 #EXTINF:-1 tvg-id="" tvg-name="TV SOL COMUNIDADE" tvg-logo="https://imgur.com/dyqS3ET.png" group-title="CANAIS TV FILMES e SERIES", TV SOL COMUNIDADE
 http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
 
-#EXTINF:-1 tvg-id="Tvmanchete" tvg-name="TV Manchete" tvg-logo="https://imgur.com/dQRl59I.png" tvg-shift="0" group-title="CANAIS TV FILMES e SERIES",TV Manchete
-https://srv5.zcast.com.br/tvmanchete/tvmanchete/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="MRL TV" tvg-logo="https://imgur.com/MAiMYi2.png" group-title="CANAIS TV FILMES e SERIES", MRL TV
 https://srv5.zcast.com.br/mrltv/mrltv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Anime.br" tvg-name="Anime TV" tvg-logo="https://imgur.com/peBLNdh.png" group-title="CANAIS TV FILMES e SERIES",Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="Anime.br" tvg-name="Anime TV 2" tvg-logo="https://listaiptv.gratis/logos/imagens/animetv.png" group-title="CANAIS TV FILMES e SERIES", Anime TV 2
-http://stmv1.srvstm.com/animetv2/animetv2/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ANIME STATION" tvg-logo="https://imgur.com/hOq1f54.png" group-title="CANAIS TV FILMES e SERIES",ANIME STATION
 https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u8
