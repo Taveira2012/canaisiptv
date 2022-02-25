@@ -92,23 +92,11 @@ https://59f2354c05961.streamlock.net:1443/rbtv/_definst_/rbtv/chunklist_w8564313
 #EXTINF:-1 tvg-id="" tvg-name="TV SOL COMUNIDADE" tvg-logo="https://imgur.com/dyqS3ET.png" group-title="CANAIS TV FILMES e SERIES", TV SOL COMUNIDADE
 http://streaming03.zas.media:1935/tvsol/tvsol/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MRL TV" tvg-logo="https://imgur.com/MAiMYi2.png" group-title="CANAIS TV FILMES e SERIES", MRL TV
-https://srv5.zcast.com.br/mrltv/mrltv/playlist.m3u8
-
 #EXTINF:-1 tvg-id="Anime.br" tvg-name="Anime TV" tvg-logo="https://imgur.com/peBLNdh.png" group-title="CANAIS TV FILMES e SERIES",Anime TV
 https://stmv1.srvif.com/animetv/animetv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="ANIME STATION" tvg-logo="https://imgur.com/hOq1f54.png" group-title="CANAIS TV FILMES e SERIES",ANIME STATION
-https://stmv.video.expressolider.com.br/animestation1/animestation1/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SUMMER TV" tvg-logo="https://imgur.com/yLdIeqo.png" group-title="CANAIS TV FILMES e SERIES", SUMMER TV
-https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/playlist-480p.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="IMPERIAL TV" tvg-logo="https://imgur.com/XFp4O1Q.png" group-title="CANAIS TV FILMES e SERIES", IMPERIAL TV
 https://5d2c98775bafe.streamlock.net/8098/8098/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="SIC TV " tvg-logo="https://imgur.com/qWCXst5.png" group-title="CANAIS TV FILMES e SERIES", SIC TV 
-http://177.11.96.110:9080/hls/sictv.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV VARZEA GRANDE" tvg-logo="https://imgur.com/poLpCRu.png" group-title="CANAIS TV FILMES e SERIES",TV VARZEA GRANDE
 https://video02.kshost.com.br/adauton7191/adauton7191/playlist.m3u8
@@ -128,29 +116,14 @@ https://5d2c98775bafe.streamlock.net/8020/8020/chunklist_w1373090659.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV Vale das Artes" tvg-logo="https://i.pinimg.com/originals/aa/e7/97/aae797937f32049a68038758af29f0fa.jpg" group-title="CANAIS TV FILMES e SERIES", TV Vale das Artes
 https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV Rio Madeira" tvg-logo="https://www.cxtv.com.br/img/Tvs/Logo/webp-l/ccf6e7c8a1cd21165ad355cd2bc6d58c.webp" group-title="CANAIS TV FILMES e SERIES", TV Rio Madeira
-https://novo.bitstreaming.info:1936/8066/8066/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="ISTV" tvg-logo="https://listaiptv.gratis/logos/imagens/istv.png" group-title="CANAIS TV FILMES e SERIES",ISTV
 https://cdn.jmvstream.com/w/LVW-9883/LVW9883_lFcfKysrHF/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Rede TV Sul" tvg-logo="https://pa-str.srvsite.com/arquivos/4172/cabecalho-4172-20190419152834.png" group-title="CANAIS TV FILMES e SERIES", Rede TV Sul
 https://novo.bitstreaming.info:1936/8032/8032/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Summer TV" tvg-logo="https://imgur.com/izBuXev.png" tvg-shift="0" group-title="CANAIS TV FILMES e SERIES",Summer TV
-https://59f1cbe63db89.streamlock.net:1443/summertv/_definst_/summertv/chunklist_w749519263.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Canal 29" tvg-logo="https://imgur.com/SqLvHod.png" group-title="CANAIS TV FILMES e SERIES",Canal 29
-https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/chunklist_w1913464202.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="Canal 29" tvg-logo="https://imgur.com/SqLvHod.png" group-title="CANAIS TV FILMES e SERIES", Canal 29
-https://59f1cbe63db89.streamlock.net:1443/canal/_definst_/canal/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Cine Livre 1" tvg-logo="https://supertvaovivo.com/wp-content/uploads/2021/09/cine-livre-1.jpg" group-title="CANAIS TV FILMES e SERIES",CINE LIVRE 1
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w114196503.m3u8?AFDTV
-
-#EXTINF:-1 tvg-id="" tvg-name="Cine Livre 2" tvg-logo="https://imgur.com/BGigxZx.png" group-title="CANAIS TV FILMES e SERIES",Cine Livre 2
-https://srv3.zcast.com.br/telavivatv/telavivatv/chunklist_w27166670.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Cine TV" tvg-logo="https://tvonlineglobo.com/wp-content/uploads/2021/10/AfQn_ljp-150x150.jpg" group-title="CANAIS TV FILMES e SERIES",CINE TV
 https://srv4.zcast.com.br/tvnovaplay/tvnovaplay/chunklist_w1739392633.m3u8?AFDTV
@@ -164,14 +137,8 @@ https://cdn.jmvstream.com/w/LVW-8538/LVW8538_KBtZ9UMIZn/playlist.m3u8?IMDSFULL
 #EXTINF:-1 tvg-id="" tvg-name="Retrô Cartoon" tvg-logo="https://1.bp.blogspot.com/-_JwCgiU5rT0/X5MDkcx4p2I/AAAAAAAAARU/5Oakc5yaCbIXQe8GQU7KNJBK-TUS9ptcwCNcBGAsYHQ/s16000/Retro-Cartoon-Logo.jpg" group-title="CANAIS TV FILMES e SERIES",Retrô Cartoon
 https://stmv1.srvif.com/retrotv/retrotv/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Retrô Cartoon 2" tvg-logo="https://1.bp.blogspot.com/-_JwCgiU5rT0/X5MDkcx4p2I/AAAAAAAAARU/5Oakc5yaCbIXQe8GQU7KNJBK-TUS9ptcwCNcBGAsYHQ/s16000/Retro-Cartoon-Logo.jpg" group-title="CANAIS TV FILMES e SERIES",Retrô Cartoon 2
-https://stmv1.srvif.com/retrotv2/retrotv2/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TV BRASIL 2" tvg-logo="https://imgur.com/FUT5qyg.png" group-title="CANAIS TV FILMES e SERIES",TV BRASIL 2
 http://origin-02.nxplay.com.br/TV_BRASIL_2/index.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV NTV" tvg-logo="https://imgur.com/kQh2rI7.png" group-title="CANAIS TV FILMES e SERIES", TV NTV
-https://59f1cbe63db89.streamlock.net:1443/ntvnet/_definst_/ntvnet/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="REDE MINAS" tvg-logo="https://imgur.com/lGGbSTG.png" group-title="CANAIS TV FILMES e SERIES",REDE MINAS
 https://v4-slbps-sambavideos.akamaized.net/live/3282%2C8114%2Cec4b5a296d97fa99bf990662f5b4f8e1%3Bbase64np%3BMc8VDxqNjXKCAf8%21/amlst%3AMc_tFgfGiHOdQXPB/chunklist.m3u8
@@ -200,12 +167,6 @@ http://tv02.logicahost.com.br:1935/pascoal/pascoal/live.m3u8?IMDSFULL
 #EXTINF:-1 tvg-id="" tvg-name="TV Destak" tvg-logo="https://listaiptv.gratis/logos/imagens/tvdestak.png" group-title="CANAIS TV FILMES e SERIES", TV Destak
 https://59f2354c05961.streamlock.net:1443/pascoal/_definst_/pascoal/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="Wham TV Classic" tvg-logo="http://whamtvclassic.adcast.com.br/admin/assets/img/anunciantes/4210-2021-04-05.png" group-title="CANAIS TV FILMES e SERIES",Wham TV Classic
-
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Natal" tvg-logo="https://listaiptv.gratis/logos/imagens/tvvnatal.jpg" group-title="CANAIS TV FILMES e SERIES", TV Natal
-http://tvnatal.ddns.net:1935/vmix/myStream/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="XTreme" tvg-logo="https://listaiptv.gratis/logos/imagens/xtreme.png" group-title="CANAIS TV FILMES e SERIES", XTreme
 https://stmv5.samcast.com.br/everton7487/everton7487/playlist.m3u8
 
@@ -226,9 +187,6 @@ https://5ad482a77183d.streamlock.net/cleuzaviamorena.com/cleuzaviamorena.com/pla
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Pantanal MS" tvg-logo="https://listaiptv.gratis/logos/imagens/tvpantanal.png" group-title="CANAIS TV FILMES e SERIES", TV Pantanal MS
 https://5e837408ea907.streamlock.net:1936/tvpantanalms/tvpantanalms/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV Tokyo" tvg-logo="https://listaiptv.gratis/logos/imagens/tvtokyo.png" group-title="CANAIS TV FILMES e SERIES", TV Tokyo
-https://stmv1.voxtvhd.com.br/tvtokio/tvtokio/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV Cine" tvg-logo="https://listaiptv.gratis/logos/imagens/tvcine.png" group-title="CANAIS TV FILMES e SERIES", TV Cine
 https://stmv1.vhcast.com/tvcine/tvcine/playlist.m3u8
@@ -254,9 +212,6 @@ https://5c483b9d1019c.streamlock.net/8202/8202/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="CGTN Español" tvg-logo="https://listaiptv.gratis/logos/imagens/CGTN-Espanol.png" group-title="CANAIS TV FILMES e SERIES",CGTN Español
 https://livees.cgtn.com/1000e/prog_index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL DA PECUARIA" tvg-logo="https://imgur.com/H8qGyZE.png" group-title="CANAIS TV FILMES e SERIES",CANAL DA PECUARIA
-https://59f2354c05961.streamlock.net:1443/canalpecuaria/_definst_/canalpecuaria/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TV POTENGI" tvg-logo="https://imgur.com/azt2n1S.png" group-title="CANAIS TV FILMES e SERIES",TV POTENGI
 https://stmv4.samcast.com.br/jeova3318/jeova3318/playlist.m3u8
 
@@ -269,17 +224,11 @@ https://stmv1.srvif.com/channel1/channel1/chunklist_w1167270397.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TV PIONEIRA" tvg-logo="https://imgur.com/Plt53Lr.png" group-title="CANAIS TV FILMES e SERIES",TV PIONEIRA
 https://livefocamundo.com:8081/tvpioneira/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV RIO PRETO" tvg-logo="https://imgur.com/7BOsSkZ.png" group-title="CANAIS TV FILMES e SERIES",TV RIO PRETO
-http://201.48.245.24:1935/live/livestream/chunklist_w1259062615.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TV SUL BAHIA" tvg-logo="https://imgur.com/1Nf2kbP.png" group-title="CANAIS TV FILMES e SERIES",TV SUL BAHIA
 https://a.cdni.live/radiomultimidia/radiomultimidia/chunklist_w1711981393.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="WEB TV CINE" tvg-logo="https://imgur.com/lSLF0nh.png" group-title="CANAIS TV FILMES e SERIES",WEB TV CINE
 https://stmv1.vhcast.com/tvcine/tvcine/chunklist_w1852439177.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV WEB GUAREI TWG" tvg-logo="https://imgur.com/rZz5Iuh.png" group-title="CANAIS TV FILMES e SERIES",TV WEB GUAREI TWG
-https://stmv1.srvif.com/radiowebguarei/radiowebguarei/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TVI VILA IMPERIAL" tvg-logo="https://imgur.com/3igIxnk.png" group-title="CANAIS TV FILMES e SERIES",TVI VILA IMPERIAL
 https://59f1cbe63db89.streamlock.net:1443/tvvaledasartes/_definst_/tvvaledasartes/playlist.m3u8
@@ -290,32 +239,17 @@ https://srv5.zcast.com.br/tvmaisbrasil/tvmaisbrasil/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="TELE WEB TV" tvg-logo="https://imgur.com/wBGFNXG.png" group-title="CANAIS TV FILMES e SERIES", TELE WEB TV
 https://video02.kshost.com.br/acessweb7837/acessweb7837/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CANAL TV GO" tvg-logo="https://imgur.com/BZroGGz.png" group-title="CANAIS TV FILMES e SERIES", CANAL TV GO
-https://stmv3.voxtvhd.com.br/canaltvgo/canaltvgo/chunklist_w844267700.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV PONTA DA SERRA" tvg-logo="https://imgur.com/M6abukT.png" group-title="CANAIS TV FILMES e SERIES", TV PONTA DA SERRA
-https://srv2.zcast.com.br/juanes1546/juanes1546/chunklist_w1824873531.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="WEB TV XTREME" tvg-logo="https://imgur.com/e0VQVhW.png" group-title="CANAIS TV FILMES e SERIES", WEB TV XTREME
 https://stmv5.samcast.com.br/everton7487/everton7487/chunklist_w1907953649.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="TV POMBAL" tvg-logo="https://imgur.com/EKNwiy9.png" group-title="CANAIS TV FILMES e SERIES",TV POMBAL
 https://stmv1.srvif.com/tvpombal/tvpombal/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TV ALIANCA CATARINENSE" tvg-logo="https://imgur.com/H0KkYjd.png" group-title="CANAIS TV FILMES e SERIES",TV ALIANCA CATARINENSE
-https://5ad482a77183d.streamlock.net/aliancatvadmgmail.com/aliancatvadmgmail.com/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV NORDESTE" tvg-logo="https://imgur.com/BBAP2fL.png" group-title="CANAIS TV FILMES e SERIES",TV NORDESTE
-https://StmV6.srvstm.com/leandro9908/leandro9908/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="VILA TV" tvg-logo="https://imgur.com/jrUqeSV.png" group-title="CANAIS TV FILMES e SERIES", VILA TV
 https://596639ebdd89b.streamlock.net/8072/8072/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="WEB TV TBO" tvg-logo="https://imgur.com/ORQjiJm.png" group-title="CANAIS TV FILMES e SERIES", WEB TV TBO
 https://stmv1.srvif.com/webtvbitonline/webtvbitonline/chunklist_w860694679.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="REDE CAXIAS TV" tvg-logo="https://imgur.com/mfQtJq3.png" group-title="CANAIS TV FILMES e SERIES",REDE CAXIAS TV
-https://stmv6.srvstm.com/luis5346/luis5346/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CLASSIQUE TV" tvg-logo="https://imgur.com/mvuZGvt.png" group-title="CANAIS TV FILMES e SERIES",CLASSIQUE TV
 https://stmv1.srvif.com/classique/classique/chunklist_w1919154997.m3u8
@@ -325,9 +259,6 @@ https://stmv1.srvif.com/classiquetv1/classiquetv1/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="CLASSIQUE TV WESTERN" tvg-logo="https://imgur.com/mvuZGvt.png" group-title="CANAIS TV FILMES e SERIES",CLASSIQUE TV WESTERN
 https://stmv1.srvif.com/classiquew/classiquew/chunklist_w1999699286.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="CLASSIQUE NOIR TV" tvg-logo="https://imgur.com/aZRobKc.png" group-title="CANAIS TV FILMES e SERIES",CLASSIQUE NOIR TV
-https://stmv1.srvif.com/classiquen/classiquen/chunklist_w916001681.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="REDE QUE DEMAIS" tvg-logo="https://imgur.com/RFRhwkC.png" group-title="CANAIS TV FILMES e SERIES", REDE QUE DEMAIS
 https://video01.logicahost.com.br/tvkidmais/tvkidmais/chunklist_w2073176681.m3u8
@@ -362,9 +293,6 @@ https://5d82644094cc0.streamlock.net:443/8116/8116/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="DEMAIS TV" tvg-logo="https://imgur.com/Yr8diVX.png" group-title="CANAIS TV FILMES e SERIES",DEMAIS TV
 https://stmv1.samcast.com.br/demaistv6503/demaistv6503/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="VG PLANTAO TV" tvg-logo="https://imgur.com/XEKoiuG.png" group-title="CANAIS TV FILMES e SERIES", VG PLANTAO TV 
-https://cdn.jmvstream.com/w/AVJ-9841/playlist/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="LAVRAS CE TV WEB" tvg-logo="https://imgur.com/NIUqJYt.png" group-title="CANAIS TV FILMES e SERIES", LAVRAS CE TV WEB
 https://stmv1.srvstm.com/igor8605/igor8605/playlist.m3u8
 
@@ -392,12 +320,6 @@ https://video01.logicahost.com.br/websptv/websptv/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MASTER SHOW TV" tvg-logo="https://imgur.com/N9LT5mO.png" group-title="CANAIS TV FILMES e SERIES", MASTER SHOW TV
 https://mastershowtv.videovox.pw/master6123/master6123/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="TELA VIVA TV" tvg-logo="https://imgur.com/5Z8aHIc.png" group-title="CANAIS TV FILMES e SERIES", TELA VIVA TV
-https://srv3.zcast.com.br/telavivatv/telavivatv/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV OSORIO NEWS" tvg-logo="https://imgur.com/YsqXFyc.png" group-title="CANAIS TV FILMES e SERIES", TV OSORIO NEWS
-https://stmv1.srvstm.com/demo2573/demo2573/playlist.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="TV GALLO" tvg-logo="https://imgur.com/FY8kjgr.png" group-title="CANAIS TV FILMES e SERIES", TV GALLO
 https://5c483b9d1019c.streamlock.net/8202/8202/playlist-480p.m3u8
 
@@ -418,11 +340,6 @@ https://srv2.zcast.com.br/elzemar/elzemar/playlist.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="LIVRE TV" tvg-logo="https://imgur.com/eTVcg0c.png" group-title="CANAIS TV FILMES e SERIES", LIVRE TV
 https://serv2.videovox.pw/lindon5124/lindon5124/playlist.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-name="TV URBANA" tvg-logo="https://imgur.com/jtmmPhA.png" group-title="CANAIS TV FILMES e SERIES",TV URBANA
-https://livefocamundo.com:8081/tvurbana/index.m3u8
-
-
 
 
 ########## CANAIS TV SERIES ##########
